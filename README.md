@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"   />
   <img width="12" />
-  <i class="devicon-rust-plain"  height="30" alt="rust logo"  ></i>
+  <img src="https://pbs.twimg.com/profile_images/1365435380758163456/MwryCZuw_400x400.png" height="30" alt="rust logo"   />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
   <img width="12" />
