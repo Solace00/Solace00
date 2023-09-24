@@ -43,4 +43,8 @@
 ###
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Solace00/Solace00/output/snake.svg" alt="Snake animation" />
+
 ###
